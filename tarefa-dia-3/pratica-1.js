@@ -1,6 +1,7 @@
-//variáveis aprendendo.
-let nome = "bruno magnaguagno"
-let email = "brunomagnaguagno56@gmail.com"
-let profissão = "agricultor"
-let idde = "19"
-let lugar que sonho ir = "egito"
+let variáveis aprendendo = {
+    "nome": "bruno magnaguagno",
+    "email": "brunomagnaguagno56@gmail.com",
+    "profissão": "agricultor",
+    "idade": 19,
+    "lugar onde sonho ir": "egito"
+}
