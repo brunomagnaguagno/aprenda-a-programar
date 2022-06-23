@@ -1,7 +1,5 @@
-let variáveis aprendendo = {
-    "nome": "bruno magnaguagno",
-    "email": "brunomagnaguagno56@gmail.com",
-    "profissão": "agricultor",
-    "idade": 19,
-    "lugar onde sonho ir": "egito"
-}
+let nome = "bruno magnaguagno"
+let email = "brunomagnaguagno56@gmail.com"
+let profissão = "agricultor"
+let idade = 19
+let lugar onde sonho ir = "egito"
